@@ -14,7 +14,8 @@ Lasagna Recipe Page is a simple webpage built with HTML to present a delicious l
 
 ## 📷 Preview  
 Check out the project:  
-![Photo 1](#)  
-![Photo 2](#)  
+![Photo 1](./LasagnaRecipePageOne.png)  
+![Photo 2](./LasagnaRecipePageTwo.png)  
+![Photo 3](./LasagnaRecipePageThree.png)  
 
 👩‍💻 Developed with ❤️ by **Isabela Class**  
